@@ -1,5 +1,6 @@
 .header__lang-links {
     text-decoration: none;
+    display: flex;
 }
 
 .header__lang-links:hover {
