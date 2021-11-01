@@ -1,6 +1,4 @@
 .header__lang-link {
-    display: flex;
-    list-style: none;
     flex-wrap: wrap;
     font-family: Inter, Arial, sans-serif;
     color: white;
