@@ -20,8 +20,7 @@
 @media screen and (min-width: 768px) {
     .place__paragraph {
         margin-top: 0;
-        margin-left: 28px;
-        padding-left: 0;
+        padding-left: 28px;
         padding-right: 0;
     }
 }
@@ -30,13 +29,13 @@
     .place__paragraph {
         font-size: 18px;
         line-height: 163%;
-        margin-left: 32px;
+        padding-left: 32px;
         margin-bottom: 26px;
      } 
 }
 
 @media screen and (min-width: 1280px) {
     .place__paragraph {
-        margin-left: 40px;
+        padding-left: 40px;
     }
 }

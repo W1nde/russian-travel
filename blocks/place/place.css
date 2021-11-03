@@ -19,23 +19,17 @@
  
  @media screen and (min-width: 768px){
     .place {
-        grid-template-columns: 340px 352px;
+        grid-template-columns: 340px 1fr;
         max-width: 720px;
         margin-bottom: 73px;
-        margin-left: 24px;
-        margin-right: 24px;
-  
      } 
  }
  
  @media screen and (min-width: 1024px){
     .place {
-        grid-template-columns: 440px 456px;
+        grid-template-columns: 440px 1fr;
         max-width: 928px;
         margin-bottom: 80px;
-        margin-left: 48px;
-        margin-right: 48px;
- 
      } 
  }
 
@@ -43,8 +37,5 @@
     .place {
         grid-template-columns: 460px 484px;
         max-width: 984px;
-        margin-left: 148px;
-        margin-right: 148px;
-        
      } 
  }
