@@ -1,6 +1,6 @@
 .places {
- margin-left: auto;
- margin-right: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 @media screen and (min-width: 320px){

@@ -24,7 +24,7 @@
     }
 }
 
-@media screen and (min-width: 1290px) {
+@media screen and (min-width: 1280px) {
     .place__url-heading {
         margin-left: 40px;
     }
