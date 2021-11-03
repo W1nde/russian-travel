@@ -42,6 +42,18 @@
     } 
 }
 
+@media screen and (min-width: 768px){
+    .cover {
+        margin-top: 90px;
+    } 
+}
+
+@media screen and (min-width: 1024px){
+    .cover {
+        margin-top: 92px;
+    } 
+}
+
  @media screen and (min-width: 1280px){
     .cover {
         width: 1184px;
